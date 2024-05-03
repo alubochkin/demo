@@ -1,50 +1,44 @@
 {
-  "directions": [
-    {
-        "id": 1,
-        "directionName": "smart",
-        "description": "Институт психологии"
-    },
-    {
-        "id": 1,
-        "directionName": "vill",
-         "description": "Институт дизайна"
-    }
-   
-  ],
-  "allCourses": [
-    {
-        "courseName": "Психология 1",
-        "id": 1,
-        "direction": "smart",
-         
-    },
-    {
-        "courseName": "Психология parts",
-        "id": 22,
-        "direction": "smart",
-
-    },
-    {
-        "courseName": "Дизайн 1",
-        "id": 33,
-        "direction": "vill",
-    },
-      {
-        "courseName": "Дизайн 2",
-        "id": 44,
-        "direction": "vill",
-    },
-        
-],
-"auth/getuser": [
-    {
-      "email": "irina@emaill.com",
-      "role": "metodist",
-      "name": "irina",
-      "id": 1
-    }
-  ]
+	"directions": [
+		{
+			"id": 1,
+			"directionName": "smart",
+			"description": "Институт психологии"
+		},
+		{
+			"id": 1,
+			"directionName": "vill",
+			"description": "Институт дизайна"
+		}
+	],
+	"allCourses": [
+		{
+			"courseName": "Психология 1",
+			"id": 1,
+			"direction": "smart"
+		},
+		{
+			"courseName": "Психология parts",
+			"id": 22,
+			"direction": "smart"
+		},
+		{
+			"courseName": "Дизайн 1",
+			"id": 33,
+			"direction": "vill"
+		},
+		{
+			"courseName": "Дизайн 2",
+			"id": 44,
+			"direction": "vill"
+		}
+	],
+	"getuser": [
+		{
+			"email": "irina@emaill.com",
+			"role": "metodist",
+			"name": "irina",
+			"id": 1
+		}
+	]
 }
-
-
