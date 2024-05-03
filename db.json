@@ -36,8 +36,8 @@
         "direction": "vill",
     },
         
-]
-  "auth/getuser": [
+],
+"auth/getuser": [
     {
       "email": "irina@emaill.com",
       "role": "metodist",
