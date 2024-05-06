@@ -124,60 +124,7 @@
 						}
 					]
 				},
-				{
-					"id": 2,
-					"moduleIndex": 2,
-					"courseName": "DevOps инжинер",
-					"moduleName": "Модуль второй",
-					"courseId": 1,
-					"partitions": [
-						{
-							"lessons": [
-								{
-									"id": 1
-								},
-								{
-									"id": 2
-								},
-								{
-									"id": 3
-								}
-							],
-							"partName": "Part 1",
-							"id": "4"
-						},
-						{
-							"lessons": [
-								{
-									"id": 1
-								},
-								{
-									"id": 2
-								},
-								{
-									"id": 3
-								}
-							],
-							"partName": "Part 2",
-							"id": "5"
-						},
-						{
-							"lessons": [
-								{
-									"id": 1
-								},
-								{
-									"id": 2
-								},
-								{
-									"id": 3
-								}
-							],
-							"partName": "Part 3",
-							"id": "6"
-						}
-					]
-				},
+				
 				{
 					"id": 3,
 					"moduleIndex": 3,
